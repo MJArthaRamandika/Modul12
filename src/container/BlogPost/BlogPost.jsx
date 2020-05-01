@@ -110,4 +110,5 @@ class BlogPost extends Component{
     }
 }
 
+
 export default BlogPost;
